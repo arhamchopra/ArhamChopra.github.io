@@ -46,7 +46,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #5a5a5a;
   font-family: "Source Sans Pro", Arial, sans-serif;
   font-weight: 400;
-  margin: 0 0 30px 0;
+  margin: 0 0 20px 0;
 }
 
 h2 {
@@ -490,7 +490,7 @@ figure {
 
 .heading-section {
   padding-bottom: 1em;
-  margin-bottom: 5em;
+  margin-bottom: 3em;
 }
 .heading-section:after {
   position: absolute;
